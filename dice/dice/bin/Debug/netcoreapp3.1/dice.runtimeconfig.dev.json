@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ejmag\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ejmag\\.nuget\\packages"
+    ]
+  }
+}

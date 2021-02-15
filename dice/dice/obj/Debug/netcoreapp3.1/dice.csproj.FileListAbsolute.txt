@@ -1,0 +1,15 @@
+C:\Users\ejmag\source\repos\dice\dice\bin\Debug\netcoreapp3.1\dice.exe
+C:\Users\ejmag\source\repos\dice\dice\bin\Debug\netcoreapp3.1\dice.deps.json
+C:\Users\ejmag\source\repos\dice\dice\bin\Debug\netcoreapp3.1\dice.runtimeconfig.json
+C:\Users\ejmag\source\repos\dice\dice\bin\Debug\netcoreapp3.1\dice.runtimeconfig.dev.json
+C:\Users\ejmag\source\repos\dice\dice\bin\Debug\netcoreapp3.1\dice.dll
+C:\Users\ejmag\source\repos\dice\dice\bin\Debug\netcoreapp3.1\dice.pdb
+C:\Users\ejmag\source\repos\dice\dice\obj\Debug\netcoreapp3.1\dice.csprojAssemblyReference.cache
+C:\Users\ejmag\source\repos\dice\dice\obj\Debug\netcoreapp3.1\dice.Form1.resources
+C:\Users\ejmag\source\repos\dice\dice\obj\Debug\netcoreapp3.1\dice.csproj.GenerateResource.cache
+C:\Users\ejmag\source\repos\dice\dice\obj\Debug\netcoreapp3.1\dice.AssemblyInfoInputs.cache
+C:\Users\ejmag\source\repos\dice\dice\obj\Debug\netcoreapp3.1\dice.AssemblyInfo.cs
+C:\Users\ejmag\source\repos\dice\dice\obj\Debug\netcoreapp3.1\dice.csproj.CoreCompileInputs.cache
+C:\Users\ejmag\source\repos\dice\dice\obj\Debug\netcoreapp3.1\dice.dll
+C:\Users\ejmag\source\repos\dice\dice\obj\Debug\netcoreapp3.1\dice.pdb
+C:\Users\ejmag\source\repos\dice\dice\obj\Debug\netcoreapp3.1\dice.genruntimeconfig.cache
